@@ -1,0 +1,7 @@
+TTS
+pydub
+numpy==1.26.4
+transformers
+accelerate
+pydantic==2.7.0
+typing-extensions==4.11.0

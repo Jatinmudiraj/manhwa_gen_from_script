@@ -1,0 +1,18 @@
+# Temp and cache files
+temp_assembly/
+clips/
+generated_audio/
+video_generated/
+__pycache__/
+*.pyc
+
+# Environment
+audio_env/
+cloning_env/
+venv/
+
+# Assets (keep them local)
+story_config.json
+hindi_text.txt
+audio_sample/
+# ...
